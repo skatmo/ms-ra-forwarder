@@ -29,7 +29,7 @@ export const FORMAT_CONTENT_TYPE = new Map([
     ['webm-16khz-16bit-mono-opus', 'audio/webm; codec=opus'],
     ['webm-24khz-16bit-mono-opus', 'audio/webm; codec=opus'],
 
-    ['ogg-16khz-16bit-mono-opus', 'audio/ogg; codecs=opus; rate=16000'],
+    ['ogg-16khz-16bit-mono-opus', 'audio/ogg; codecs=opus; rate=160000'],
     ['ogg-24khz-16bit-mono-opus', 'audio/ogg; codecs=opus; rate=24000'],
     ['ogg-48khz-16bit-mono-opus', 'audio/ogg; codecs=opus; rate=48000'],
 
